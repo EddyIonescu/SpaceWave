@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ionescu_Eduard_SpaceWave:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ionescu_Eduard_SpaceWave_jar</output-path>
+    <root id="archive" name="SpaceWave1.jar">
+      <element id="module-output" name="SpaceWave1" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/imgscalr-lib-4.2/imgscalr-lib-4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/imgscalr-lib-4.2/imgscalr-lib-4.2-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/imgscalr-lib-4.2/imgscalr-lib-4.2-sources.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
